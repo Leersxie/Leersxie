@@ -1,7 +1,14 @@
-<!-- 标题 -->
+<!-- 标题-->
 <div align="center">
   <h1 style="color:#22d3ee; margin: 0;">Hello, I'm Leersxie</h1>
   <p style="color:#888; margin-top: 8px;">Developer | Open-Source Enthusiast | Keep Learning</p>
+</div>
+
+<br>
+
+<!--  -->
+<div align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/1058249063046336512?theme=dark" alt="Discord Status">
 </div>
 
 <br>
@@ -33,7 +40,7 @@
 
 ### 👤 About
 <div style="color:#c5c6c7;">
-开心就好~
+专注技术实践，热爱开源与创作。持续探索，稳步前行。
 </div>
 
 <br>
@@ -45,10 +52,9 @@
 
 <br>
 
-### 📈 Stats
-<div align="center" style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leersxie&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true" width="380">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leersxie&theme=transparent&hide_border=true&layout=compact" width="300">
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=Leersxie&theme=dark" width="680">
 </div>
 
 ---
