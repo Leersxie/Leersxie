@@ -9,29 +9,6 @@
 
 <br>
 
-<!-- 社交图标栏 -->
-<div align="center">
-  <a href="mailto:leersxie219@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="36" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leersxie.github.io/">
-    <img src="https://skillicons.dev/icons?i=markdown&theme=dark" width="36" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://gitlab.com/leersxie-bags/Leersxie-project/-/learn_gitlab">
-    <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="36" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/Leersxie_0830">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="36" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/1058249063046336512">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="36" />
-  </a>
-</div>
-
 ---
 
 ### 👤 About
