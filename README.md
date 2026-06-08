@@ -1,6 +1,6 @@
 <!-- 标题-->
 <div align="center">
-  <h1 style="color:#22d3ee; margin: 0;">Hello, I'm Leersxie</h1>
+  <h1 style="color:#22d3ee; margin: 0;">Hi, I'm Leersxie</h1>
   <p style="color:#888; margin-top: 8px;">Developer | Open-Source Enthusiast | Keep Learning</p>
 </div>
 
