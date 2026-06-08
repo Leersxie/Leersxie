@@ -1,7 +1,7 @@
 
 <!-- 动态打字标语 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2322d3ee&lines=你好我是Leersxie！;欢迎来到我的github。&center=true&width=550&height=45&pause=2000">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2322d3ee&lines=你好我是Leersxie！;欢迎来到我的github。&center=true&width=550&height=45&pause=2000&fontSize=22">
 </div>
 
 <br>
