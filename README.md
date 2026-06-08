@@ -52,9 +52,9 @@
 
 <br>
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Grid
 <div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=Leersxie&theme=dark" width="680">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width=680>
 </div>
 
 ---
