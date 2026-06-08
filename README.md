@@ -48,7 +48,7 @@
 
 <br>
 
-### 🐍 Contribution Grid
+
 <div align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width=680>
 </div>
@@ -56,5 +56,5 @@
 ---
 
 <div align="center" style="color:#666;font-size:14px;">
-Stay humble, stay curious.
+ []~(￣▽￣)~*
 </div>
