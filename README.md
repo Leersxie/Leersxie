@@ -1,4 +1,3 @@
-<!-- 顶部渐变横幅 -->
 
 
 <!-- 动态打字标语 -->
@@ -8,18 +7,26 @@
 
 <br>
 
-<!-- 社交图标栏 -->
+<!-- 社交图标栏（已全部按你的信息配置） -->
 <div align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:leersxie219@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="36" />
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_BLOG_LINK">
-    <img src="https://skillicons.dev/icons?i=markdown&theme=dark" width="36" />
+  <a href="https://leersxie.github.io/">
+    <img src="https://skillicons.dev/icons?i=web&theme=dark" width="36" />
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_SOCIAL_LINK">
+  <a href="https://gitlab.com/leersxie-bags/Leersxie-project/-/learn_gitlab">
+    <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Leersxie_0830">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/1058249063046336512">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="36" />
   </a>
 </div>
 
@@ -32,17 +39,17 @@
 
 <br>
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack（已按你使用的工具配置）
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,js,ts,python,go,docker,vue,react&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,python,docker,html,godot,ae,ps&theme=dark&perline=7" />
 </div>
 
 <br>
 
 ### 📈 Stats
 <div align="center" style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_NAME&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true" width="380">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_NAME&theme=transparent&hide_border=true&layout=compact" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leersxie&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true" width="380">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leersxie&theme=transparent&hide_border=true&layout=compact" width="300">
 </div>
 
 <br>
