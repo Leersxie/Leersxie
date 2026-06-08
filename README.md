@@ -1,8 +1,7 @@
-
-
-<!-- 动态打字标语 -->
+<!-- 标题 -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2322d3ee&lines=Developer;Open-Source%20Enthusiast;Keep%20Learning&center=true&width=520&height=45&pause=2500">
+  <h1 style="color:#22d3ee; margin: 0;">Hello, I'm Leersxie</h1>
+  <p style="color:#888; margin-top: 8px;">Developer | Open-Source Enthusiast | Keep Learning</p>
 </div>
 
 <br>
@@ -34,7 +33,7 @@
 
 ### 👤 About
 <div style="color:#c5c6c7;">
-不断前行，开心就好。
+开心就好~
 </div>
 
 <br>
@@ -48,15 +47,8 @@
 
 ### 📈 Stats
 <div align="center" style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leersxie&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true" width="380">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leersxie&theme=transparent&hide_border=true&layout=compact" width="300">
-</div>
-
-<br>
-
-### 🐍 Contribution Grid
-<div align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width=680>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leersxie&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true" width="380">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leersxie&theme=transparent&hide_border=true&layout=compact" width="300">
 </div>
 
 ---
