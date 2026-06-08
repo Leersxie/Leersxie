@@ -1,7 +1,6 @@
 <!-- 标题-->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2322d3ee&lines=Developer;Open-Source%20Enthusiast;Keep%20Learning&center=true&width=520&height=45&pause=2500">
-</div>or:#888; margin-top: 8px;">你 | 好 | 呀</p>
 
 
 <br>
