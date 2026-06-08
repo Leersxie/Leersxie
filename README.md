@@ -18,6 +18,8 @@
 
 <br>
 
+---
+
 ### 🧰 Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,python,docker,html,godot,ae,ps&theme=dark&perline=7" />
