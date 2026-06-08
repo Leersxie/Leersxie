@@ -6,10 +6,6 @@
 
 <br>
 
-<!--  -->
-<div align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1058249063046336512?theme=dark" alt="Discord Status">
-</div>
 
 <br>
 
