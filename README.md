@@ -24,7 +24,7 @@
 
 <br>
 
-### 🎨 工具与软件
+### 🎨 others
 <div align="center">
 <img src="https://skillicons.dev/icons?i=windows,ae,ps&theme=dark&perline=3" />
 </div>
