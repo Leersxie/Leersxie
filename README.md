@@ -26,7 +26,7 @@
 
 ### 🎨 others
 <div align="center">
-<img src="https://skillicons.dev/icons?i=windows,ae,ps&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=windows,ae,ps,pr&theme=dark&perline=3" />
 </div>
 
 <br>
