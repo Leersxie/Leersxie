@@ -7,14 +7,14 @@
 
 <br>
 
-<!-- 社交图标栏（已全部按你的信息配置） -->
+<!-- 社交图标栏 -->
 <div align="center">
   <a href="mailto:leersxie219@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="36" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leersxie.github.io/">
-    <img src="https://skillicons.dev/icons?i=web&theme=dark" width="36" />
+    <img src="https://skillicons.dev/icons?i=markdown&theme=dark" width="36" />
   </a>
   &nbsp;&nbsp;
   <a href="https://gitlab.com/leersxie-bags/Leersxie-project/-/learn_gitlab">
@@ -34,12 +34,12 @@
 
 ### 👤 About
 <div style="color:#c5c6c7;">
-专注技术实践，热爱开源与创作。持续探索，稳步前行。
+不断前行，开心就好。
 </div>
 
 <br>
 
-### 🧰 Tech Stack（已按你使用的工具配置）
+### 🧰 Tech Stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,python,docker,html,godot,ae,ps&theme=dark&perline=7" />
 </div>
@@ -56,7 +56,7 @@
 
 ### 🐍 Contribution Grid
 <div align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="680">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width=680>
 </div>
 
 ---
